@@ -31,4 +31,4 @@ Important:
    - If you face any problem in checkout page to complete the payment then disable debug mode. Follow below instructions        
     1. Login admin panel and go "Preference > Configuration", Debug Mode = 0 
 
-Note: This application is comparable with appRain Version 4.0.1. If you need any earlier version of appStore please go to: https://code.google.com/p/apprainstore/downloads/list
+Note: This application is compatible with appRain Version 4.0.1. If you need any earlier version of appStore please go to: https://code.google.com/p/apprainstore/downloads/list
